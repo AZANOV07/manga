@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2fff239f-1254-472e-a462-e0729f8cfdaa" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Manga/apps/carts/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Manga/apps/carts/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Manga/apps/carts/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Manga/apps/carts/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Manga/apps/carts/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Manga/apps/carts/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Manga/apps/carts/serializers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Manga/apps/carts/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Manga/apps/carts/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Manga/apps/carts/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Manga/apps/products/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Manga/apps/products/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Manga/apps/products/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Manga/apps/products/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Manga/apps/ratings/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Manga/apps/ratings/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Manga/apps/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Manga/apps/users/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Manga/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Manga/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Manga/onlineshop/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Manga/onlineshop/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Manga/onlineshop/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Manga/onlineshop/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Manga/onlineshop/wsgi.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Manga" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2TVNf3pevSaAqBtycx4uypaGpxw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/azanov/Desktop/pers"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="manga" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2fff239f-1254-472e-a462-e0729f8cfdaa" name="Changes" comment="" />
+      <created>1691124387459</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691124387459</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
